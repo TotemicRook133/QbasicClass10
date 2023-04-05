@@ -1,0 +1,2 @@
+# QbasicClass10
+Nowadays, people often overlook the BASIC programming language. Despite being one of the most widely used languages during the early days of computing, it is now considered limited and difficult to use. However, as a computer science student, I was determined to make the most of it. In 9th grade (2020), I started developing a banking software model using QBASIC. Despite its limitations, I was able to incorporate ASCII art, icons, fonts, music and more into my project. It was a challenge I took on to prove that QBASIC is still a valuable language for coding.
